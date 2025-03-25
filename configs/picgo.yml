@@ -1,0 +1,4 @@
+API_ADDRESS: https://telegraph-image-2rp.pages.dev/upload
+POST_PARAMS: file
+JSON_PATH: 0.src
+CUSTOM_URL_PREFIX: https://telegraph-image-2rp.pages.dev
